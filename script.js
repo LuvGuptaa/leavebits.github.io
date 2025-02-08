@@ -25,7 +25,7 @@ async function modifyPdf() {
     var returnndate = new Date(returnn);
     var departuredate = new Date(departure);
     var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-    var wardens = ['Sharad Shrivastava', 'Prof. Bibhas Ranjan Sarkar', 'Srinivas Appari', 'Nitin Chaturvedi', 'Krishnendra Shekhawat', 'Surekha Bhanot', 'Kumar Sankar Bhattacharya', 'Praveen Kumar A.V.', 'MM Pandey']
+    var wardens = ['Sharad Shrivastava', 'Prof. Bibhas Ranjan Sarkar', 'Prof. Bibhas Ranjan Sarkar', 'Nitin Chaturvedi', 'Krishnendra Shekhawat', 'Surekha Bhanot', 'Kumar Sankar Bhattacharya', 'Praveen Kumar A.V.', 'MM Pandey']
     var hostels = ['Shankar Bhawan', 'Krishna Bhawan', 'Krishna Bhawan', 'Gandhi Bhawan', 'Vishwakarma Bhawan', 'Meera Bhawan', 'Vyas Bhawan', 'Ram Bhawan', 'Budh Bhawan']
 
     // Get the width and height of thne first page
